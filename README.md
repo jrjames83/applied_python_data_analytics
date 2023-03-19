@@ -1,1 +1,3 @@
-# applied_python_data_analytics
+# Applied Python for Data Analytics
+
+WIP - repo for my Udemy class. 
